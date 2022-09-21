@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![](https://img.shields.io/badge/Google Scholar%20Scholar-success.svg?color=informational&style=for-the-badge)](https://scholar.google.com/citations?user=2nZSphQAAAAJ&hl=en)
+
+
 <!--
 **FarhadPishgar/FarhadPishgar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
